@@ -2,7 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.ebootsxkmutt.co.th/index.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2017-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/about.html</loc>
+    <lastmod>2017-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/com.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh642x181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh548x155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh514x145.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/design.html</loc>
+    <lastmod>2017-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/home.html</loc>
+    <lastmod>2017-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,6 +105,108 @@
       <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/bg509x406.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/1418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/2418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/3418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/4418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/5418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/6418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/7418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/8418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/9418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/10418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/11418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/12418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/13418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/14418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/15418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/16418x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/bg435x346.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/1357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/2357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/3357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/4357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/5357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/6357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/7357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/8357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/9357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/10357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/11357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/12357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/13357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/14357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/15357x267.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/16357x267.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.ebootsxkmutt.co.th/images/bg408x325.png</image:loc>
     </image:image>
     <image:image>
@@ -115,17 +259,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.ebootsxkmutt.co.th/design.html</loc>
-    <lastmod>2017-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.ebootsxkmutt.co.th/about.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <loc>http://www.ebootsxkmutt.co.th/pre-order.html</loc>
+    <lastmod>2017-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,26 +269,11 @@
   </url>
   <url>
     <loc>http://www.ebootsxkmutt.co.th/team.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2017-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.ebootsxkmutt.co.th/pre-order.html</loc>
-    <lastmod>2017-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.ebootsxkmutt.co.th/assets/bg_3.mp4</loc>
-    <lastmod>2017-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
