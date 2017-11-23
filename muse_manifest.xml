@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511462576492">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511462813873">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="282064449" ref="design:home:team:pre-order:about"/>
@@ -262,6 +262,24 @@
       <caption webpage="home" alt=""/>
     </file>
     <file name="footer.png" crc="456317782" seo="true" ref="home:about:design:team:pre-order">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
@@ -274,24 +292,6 @@
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
     </file>
     <file name="bg509x406.png" crc="3827191457" seo="true" ref="home">
       <caption webpage="home" alt=""/>
@@ -492,7 +492,7 @@
     </file>
   </folder>
   <file name="home.html" crc="4194106351" seo="true" mt="1511462016573" redirect="true"/>
-  <file name="about.html" crc="132255136" seo="true" mt="1511462560682" redirect="true"/>
+  <file name="about.html" crc="3920229331" seo="true" mt="1511462802024" redirect="true"/>
   <file name="design.html" crc="3771712359" seo="true" mt="1511462016573" redirect="true"/>
   <file name="team.html" crc="4068609134" seo="true" mt="1511462016573" redirect="true"/>
   <file name="pre-order.html" crc="73753091" seo="true" mt="1511462016573" redirect="true"/>
