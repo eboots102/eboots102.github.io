@@ -1,20 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511372942651">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511462092496">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="336622988" ref="design:pre-order:home:about:team"/>
-    <file name="nomq_preview_master_a-master.css" crc="4251906149" ref="design:pre-order:home:about:team"/>
-    <file name="design.css" crc="12339588" ref="design"/>
-    <file name="nomq_design.css" crc="3772233012" ref="design"/>
-    <file name="index.css" crc="441873725" ref="index"/>
+    <file name="master_a-master.css" crc="282064449" ref="design:home:team:pre-order:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="230545620" ref="design:home:team:pre-order:about"/>
+    <file name="index.css" crc="4037335550" ref="index"/>
     <file name="nomq_index.css" crc="310423225" ref="index"/>
-    <file name="pre-order.css" crc="405335904" ref="pre-order"/>
-    <file name="nomq_pre-order.css" crc="77842506" ref="pre-order"/>
-    <file name="home.css" crc="4174921878" ref="home"/>
-    <file name="nomq_home.css" crc="4064872114" ref="home"/>
-    <file name="about.css" crc="491347606" ref="about"/>
-    <file name="nomq_about.css" crc="6247193" ref="about"/>
-    <file name="team.css" crc="12339588" ref="team"/>
-    <file name="nomq_team.css" crc="3772233012" ref="team"/>
+    <file name="design.css" crc="3983090157" ref="design"/>
+    <file name="nomq_design.css" crc="4223880863" ref="design"/>
+    <file name="home.css" crc="4278632978" ref="home"/>
+    <file name="nomq_home.css" crc="4004652765" ref="home"/>
+    <file name="team.css" crc="156360866" ref="team"/>
+    <file name="nomq_team.css" crc="492462595" ref="team"/>
+    <file name="pre-order.css" crc="346027351" ref="pre-order"/>
+    <file name="nomq_pre-order.css" crc="233191453" ref="pre-order"/>
+    <file name="about.css" crc="4278056583" ref="about"/>
+    <file name="nomq_about.css" crc="530271676" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="display.mp4" crc="4140446451" seo="true" mt="1511458855000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:about:design:team:pre-order:index"/>
@@ -205,6 +208,18 @@
       <caption webpage="home" alt=""/>
     </file>
     <file name="footer.png" crc="456317782" seo="true" ref="home:about:design:team:pre-order">
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -223,18 +238,6 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
     </file>
     <file name="bg509x406.png" crc="3827191457" seo="true" ref="home">
       <caption webpage="home" alt=""/>
@@ -397,6 +400,11 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="dyneema.jpg" crc="4087082076" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
     <file name="com.gif" crc="187591167" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -405,25 +413,34 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="fhbfdcgbh.jpg" crc="182406456" seo="true" ref="about">
+    <file name="ตาราง.png" crc="460662122" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="fhbfdcgbh642x181.jpg" crc="4022222569" seo="true" ref="about">
+    <file name="dyneema750x144.jpg" crc="3924819359" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="fhbfdcgbh548x155.jpg" crc="3864569631" seo="true" ref="about">
+    <file name="ตาราง734x208.png" crc="4064515769" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="fhbfdcgbh514x145.jpg" crc="96938371" seo="true" ref="about">
+    <file name="dyneema640x123.jpg" crc="3964970035" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="ตาราง626x178.png" crc="3831015197" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dyneema600x115.jpg" crc="3874378396" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="ตาราง587x167.png" crc="3834414389" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="home.html" crc="4083588536" seo="true" mt="1511372174702" redirect="true"/>
-  <file name="about.html" crc="4129674743" seo="true" mt="1511372891987" redirect="true"/>
-  <file name="design.html" crc="3952387968" seo="true" mt="1511372174699" redirect="true"/>
-  <file name="team.html" crc="3817869512" seo="true" mt="1511372174699" redirect="true"/>
-  <file name="pre-order.html" crc="4037034659" seo="true" mt="1511372174699" redirect="true"/>
-  <file name="index.html" crc="4055677835" seo="true" mt="1511372522677" redirect="true"/>
+  <file name="home.html" crc="4194106351" seo="true" mt="1511462016573" redirect="true"/>
+  <file name="about.html" crc="479288753" seo="true" mt="1511462016573" redirect="true"/>
+  <file name="design.html" crc="3771712359" seo="true" mt="1511462016573" redirect="true"/>
+  <file name="team.html" crc="4068609134" seo="true" mt="1511462016573" redirect="true"/>
+  <file name="pre-order.html" crc="73753091" seo="true" mt="1511462016573" redirect="true"/>
+  <file name="index.html" crc="3973966903" seo="true" mt="1511461285920" redirect="true"/>
 </manifest>

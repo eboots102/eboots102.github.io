@@ -2,49 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.ebootsxkmutt.co.th/index.html</loc>
-    <lastmod>2017-11-23</lastmod>
+    <lastmod>2017-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.ebootsxkmutt.co.th/about.html</loc>
-    <lastmod>2017-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/com.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh642x181.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh548x155.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/fhbfdcgbh514x145.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.ebootsxkmutt.co.th/design.html</loc>
-    <lastmod>2017-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.ebootsxkmutt.co.th/home.html</loc>
-    <lastmod>2017-11-23</lastmod>
+    <lastmod>2017-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -259,8 +223,47 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.ebootsxkmutt.co.th/pre-order.html</loc>
-    <lastmod>2017-11-23</lastmod>
+    <loc>http://www.ebootsxkmutt.co.th/about.html</loc>
+    <lastmod>2017-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/dyneema.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/com.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/dyneema750x144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87734x208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/dyneema640x123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87626x178.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/dyneema600x115.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87587x167.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/design.html</loc>
+    <lastmod>2017-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -269,11 +272,26 @@
   </url>
   <url>
     <loc>http://www.ebootsxkmutt.co.th/team.html</loc>
-    <lastmod>2017-11-23</lastmod>
+    <lastmod>2017-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/pre-order.html</loc>
+    <lastmod>2017-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ebootsxkmutt.co.th/images/footer.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.ebootsxkmutt.co.th/assets/display.mp4</loc>
+    <lastmod>2017-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
