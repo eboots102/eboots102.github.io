@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511463279090">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ebootsxkmutt.co.th" resolutions="1x" timestamp="1511485679115">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="282064449" ref="design:home:team:pre-order:about"/>
     <file name="nomq_preview_master_a-master.css" crc="230545620" ref="design:home:team:pre-order:about"/>
-    <file name="index.css" crc="4037335550" ref="index"/>
-    <file name="nomq_index.css" crc="310423225" ref="index"/>
+    <file name="index.css" crc="4052816438" ref="index"/>
+    <file name="nomq_index.css" crc="3978857511" ref="index"/>
     <file name="design.css" crc="3983090157" ref="design"/>
     <file name="nomq_design.css" crc="4223880863" ref="design"/>
     <file name="home.css" crc="4278632978" ref="home"/>
@@ -490,11 +490,17 @@
     <file name="ตาราง587x167.png" crc="3834414389" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="2165416.gif" crc="184267980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2165416-crop-u8102.jpg" crc="19481790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <file name="home.html" crc="4194106351" seo="true" mt="1511462016573" redirect="true"/>
   <file name="about.html" crc="3899911176" seo="true" mt="1511463265452" redirect="true"/>
   <file name="design.html" crc="3771712359" seo="true" mt="1511462016573" redirect="true"/>
   <file name="team.html" crc="4068609134" seo="true" mt="1511462016573" redirect="true"/>
   <file name="pre-order.html" crc="73753091" seo="true" mt="1511462016573" redirect="true"/>
-  <file name="index.html" crc="3973966903" seo="true" mt="1511461285920" redirect="true"/>
+  <file name="index.html" crc="379717124" seo="true" mt="1511485663539" redirect="true"/>
 </manifest>
